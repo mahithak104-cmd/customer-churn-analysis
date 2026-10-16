@@ -160,10 +160,6 @@ The findings highlight tenure, utilization, and transaction activity as areas fo
 
 Future work will focus on improving minority-class detection, validating the findings, comparing classification models, and developing more actionable customer retention insights.
 
-## Skills Demonstrated
-
-Python, Pandas, NumPy, Exploratory Data Analysis, Data Cleaning, Data Visualization, Customer Segmentation, Correlation Analysis, Logistic Regression, Classification Evaluation, and Business Insight Generation.
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mahitha-kalinathabotla/)
