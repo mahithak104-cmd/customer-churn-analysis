@@ -21,5 +21,6 @@ Analysis and prediction of customer churn using Python, machine learning, and da
 <img width="882" height="494" alt="Churn Rate by Tenure Bucket 1" src="https://github.com/user-attachments/assets/bdf823b4-312f-40ff-a821-bc1dd2599df6" />
 
 ### Confusion Matrix- Logistic Regression
-(<img width="493" height="386" alt="Confusion Matrix- Logistic Regression" src="https://github.com/user-attachments/assets/eecccf32-1c8a-4255-999f-042daea7a762" />)
+<img width="632" height="395" alt="Confusion Matrix - Logistic Regression" src="https://github.com/user-attachments/assets/189d19ad-ffe9-4761-99f3-c5bbb62e0176" />
+
 
