@@ -78,7 +78,7 @@ The analysis indicates that customers in the low transaction activity category h
 
 This suggests that reduced engagement may be worth investigating as a potential early-warning indicator.
 
-![Churn by Transaction Activity](images/churn_by_transaction_activity.png)
+<img width="1050" height="499" alt="Churn Rate by Transaction Activity Level" src="https://github.com/user-attachments/assets/ee4d1b8c-8b8e-408d-b399-c5325f61907f" />
 
 ### 6. Utilization Distribution by Churn Status
 
