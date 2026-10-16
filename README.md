@@ -164,6 +164,6 @@ Future work will focus on improving minority-class detection, validating the fin
 
 Python, Pandas, NumPy, Exploratory Data Analysis, Data Cleaning, Data Visualization, Customer Segmentation, Correlation Analysis, Logistic Regression, Classification Evaluation, and Business Insight Generation.
 
-## Author 
+## Author
+Mahitha Kalinathabotla
 [LinkedIn](https://www.linkedin.com/in/mahitha-kalinathabotla)
----
