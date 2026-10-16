@@ -164,13 +164,6 @@ Future work will focus on improving minority-class detection, validating the fin
 
 Python, Pandas, NumPy, Exploratory Data Analysis, Data Cleaning, Data Visualization, Customer Segmentation, Correlation Analysis, Logistic Regression, Classification Evaluation, and Business Insight Generation.
 
-## Author
+## Connect with Me
 
-**Mahitha Kalinathabotla**
-
-Master of Science in Business Analytics  
-University at Albany, SUNY
-
-Connect with me on [LinkedIn](www.linkedin.com/in/mahitha-kalinathabotla).
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mahitha-kalinathabotla/)
